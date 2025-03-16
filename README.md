@@ -1,5 +1,5 @@
 # Find The Difference(自动找不同)
-![主界面](/Find%20The%20Difference/doc/img/mainwindow.png)<br>
+![主界面](/doc/img/mainwindow.png)<br>
 程序使用.NET Framwork 4.8框架开发;AntdUI进行UI开发<br>
 ## 介绍
 这个小工具可以帮你快速找出一堆文字中不同的文字！

@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="AntdUI, Version=1.9.4.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\AntdUI.1.9.4\lib\net48\AntdUI.dll</HintPath>
@@ -90,6 +93,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\MaterialSymbolsContractRounded.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
